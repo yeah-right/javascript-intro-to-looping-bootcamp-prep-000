@@ -5,4 +5,7 @@ function doWhileLoop(int) {
   return i;
   }
   
+  do {
+    
+  }
 }
